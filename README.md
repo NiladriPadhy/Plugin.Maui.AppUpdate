@@ -1,5 +1,7 @@
 # Plugin.Maui.AppUpdate
 
+[![NuGet](https://img.shields.io/nuget/v/Plugin.Maui.AppUpdate.svg?label=NuGet)](https://www.nuget.org/packages/Plugin.Maui.AppUpdate)
+
 A cross-platform in-app update framework for **.NET MAUI** on **Android** and **iOS**.
 
 ```
@@ -24,6 +26,8 @@ Start  or  Postpone
 ```
 
 ## Install
+
+Package: [https://www.nuget.org/packages/Plugin.Maui.AppUpdate](https://www.nuget.org/packages/Plugin.Maui.AppUpdate)
 
 ```bash
 dotnet add package Plugin.Maui.AppUpdate

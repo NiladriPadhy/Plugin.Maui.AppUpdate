@@ -29,7 +29,7 @@
     <PackageProjectUrl>https://github.com/NiladriPadhy/Plugin.Maui.AppUpdate</PackageProjectUrl>
     <RepositoryUrl>https://github.com/NiladriPadhy/Plugin.Maui.AppUpdate</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <PackageReleaseNotes>Initial release. MAUI in-app updates for Android (Google Play) and iOS (App Store): CheckAsync / StartAsync, mandatory and recommended updates, maintenance mode, minimum supported version, release notes, and postponement.</PackageReleaseNotes>
     <IncludeSymbols>true</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>

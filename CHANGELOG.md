@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1
+
+- Add the NuGet package link and badge to the README
+
 ## 1.0.0
 
 - Cross-platform in-app updates for .NET MAUI on Android and iOS
