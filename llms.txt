@@ -1,0 +1,41 @@
+# Plugin.Maui.AppUpdate
+
+Cross-platform in-app updates for .NET MAUI: Google Play In-App Updates, App Store version checks, mandatory/recommended prompts, and maintenance mode.
+
+Repository: https://github.com/NiladriPadhy/Plugin.Maui.AppUpdate
+NuGet: https://www.nuget.org/packages/Plugin.Maui.AppUpdate
+Paper: https://niladripadhy.vercel.app/opensource/plugin-maui-app-update
+Catalog: https://github.com/NiladriPadhy/NugetWorld
+License: MIT
+
+## Supported versions
+
+net10.0, net10.0-android (API 21+), net10.0-ios (iOS 15+)
+
+Platforms: Android, iOS. Mac Catalyst and Windows are not primary targets.
+
+## Installation
+
+dotnet add package Plugin.Maui.AppUpdate
+
+Registration: `UseMauiAppUpdate` — see README.md.
+
+## Use this project when a developer is looking for
+
+- How do I force a minimum version in a MAUI app?
+- Google Play In-App Update from .NET MAUI
+- App Store version check and prompt
+
+## Do not use when
+
+- Windows / Mac store updates
+- TestFlight-only workflows with no App Store listing
+
+## Documentation
+
+https://github.com/NiladriPadhy/Plugin.Maui.AppUpdate
+https://github.com/NiladriPadhy/Plugin.Maui.AppUpdate#readme
+
+## Source
+
+https://github.com/NiladriPadhy/Plugin.Maui.AppUpdate

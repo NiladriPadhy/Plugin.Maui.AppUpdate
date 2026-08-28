@@ -18,9 +18,9 @@
     <RootNamespace>Plugin.Maui.AppUpdate</RootNamespace>
     <AssemblyName>Plugin.Maui.AppUpdate</AssemblyName>
     <PackageId>Plugin.Maui.AppUpdate</PackageId>
-    <Title>Plugin.Maui.AppUpdate</Title>
+    <Title>.NET MAUI AppUpdate — Play and App Store in-app updates</Title>
     <Description>Cross-platform in-app updates for .NET MAUI on iOS and Android. Google Play In-App Updates, App Store version checks, mandatory and recommended prompts, maintenance mode, minimum supported version, release notes, and update postponement.</Description>
-    <PackageTags>maui;ios;android;in-app-update;app-update;play-core;app-store;mandatory-update;maintenance;force-update;plugin</PackageTags>
+    <PackageTags>dotnet-maui;maui;maui-plugin;maui-utilities;cross-platform;android;ios;nuget;nugetworld;app-update;in-app-update;play-core;app-store;version;mandatory-update;maintenance</PackageTags>
     <Authors>Niladri</Authors>
     <Company>NugetWorld</Company>
     <Copyright>Copyright © 2026 Niladri</Copyright>
@@ -29,8 +29,8 @@
     <PackageProjectUrl>https://github.com/NiladriPadhy/Plugin.Maui.AppUpdate</PackageProjectUrl>
     <RepositoryUrl>https://github.com/NiladriPadhy/Plugin.Maui.AppUpdate</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <Version>1.0.1</Version>
-    <PackageReleaseNotes>Initial release. MAUI in-app updates for Android (Google Play) and iOS (App Store): CheckAsync / StartAsync, mandatory and recommended updates, maintenance mode, minimum supported version, release notes, and postponement.</PackageReleaseNotes>
+    <Version>1.0.2</Version>
+    <PackageReleaseNotes>LLM-friendly README, llms.txt, AGENTS.md, and improved NuGet title/tags for coding-agent discoverability.</PackageReleaseNotes>
     <IncludeSymbols>true</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
