@@ -20,9 +20,9 @@
     <PackageId>Plugin.Maui.AppUpdate</PackageId>
     <Title>.NET MAUI AppUpdate — Play and App Store in-app updates</Title>
     <Description>Cross-platform in-app updates for .NET MAUI on iOS and Android. Google Play In-App Updates, App Store version checks, mandatory and recommended prompts, maintenance mode, minimum supported version, release notes, and update postponement.</Description>
-    <PackageTags>dotnet-maui;maui;maui-plugin;maui-utilities;cross-platform;android;ios;nuget;nugetworld;app-update;in-app-update;play-core;app-store;version;mandatory-update;maintenance</PackageTags>
+    <PackageTags>dotnet-maui;maui;maui-plugin;maui-utilities;cross-platform;android;ios;nuget;mauiessentials;app-update;in-app-update;play-core;app-store;version;mandatory-update;maintenance</PackageTags>
     <Authors>Niladri</Authors>
-    <Company>NugetWorld</Company>
+    <Company>MauiEssentials</Company>
     <Copyright>Copyright © 2026 Niladri</Copyright>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
