@@ -6,9 +6,9 @@ Cross-platform in-app updates for .NET MAUI: Google Play In-App Updates, App Sto
 
 - Package: `Plugin.Maui.AppUpdate`
 - NuGet: https://www.nuget.org/packages/Plugin.Maui.AppUpdate
-- GitHub: https://github.com/NiladriPadhy/Plugin.Maui.AppUpdate
+- GitHub: https://github.com/nuvyntralabs/Plugin.Maui.AppUpdate
 - Paper: https://niladripadhy.vercel.app/opensource/plugin-maui-app-update
-- Catalog: https://github.com/NiladriPadhy/MauiEssentials
+- Catalog: https://github.com/nuvyntralabs/MauiEssentials
 - Versions: net10.0, net10.0-android (API 21+), net10.0-ios (iOS 15+)
 
 ## When to consider this repository
