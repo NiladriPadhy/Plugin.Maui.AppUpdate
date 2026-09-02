@@ -183,7 +183,7 @@ dotnet build samples/Plugin.Maui.AppUpdate.Sample/Plugin.Maui.AppUpdate.Sample.c
 dotnet pack src/Plugin.Maui.AppUpdate/Plugin.Maui.AppUpdate.csproj -c Release -o artifacts
 ```
 
-The `.nupkg` is written to `artifacts/Plugin.Maui.AppUpdate.1.0.0.nupkg`.
+The `.nupkg` is written to `artifacts/Plugin.Maui.AppUpdate.1.0.6.nupkg`.
 
 ## License
 
